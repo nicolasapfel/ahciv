@@ -1,7 +1,7 @@
 # ahciv
 
 ## Description: 
-This repository provides the function ahciv that implements the method proposed in "Agglomerative Hierarchical Clustering for Selecting Valid Instrumental Variables" by Nicolas Apfel and Xiaoran Liang. \
+This repository provides the function **ahciv()** that implements the method proposed in "Agglomerative Hierarchical Clustering for Selecting Valid Instrumental Variables" by Nicolas Apfel and Xiaoran Liang. \
 The functions is in **ahciv_function.R** and can be sourced from there.\
 Synthetic data is created in the file **example.R** This file also illustrates how to run the command.
 
